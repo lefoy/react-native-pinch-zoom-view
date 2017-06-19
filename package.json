@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/GuoChen-WHU/react-native-pinch-zoom-view.git"
+    "url": "git://github.com/lefoy/react-native-pinch-zoom-view.git"
   },
   "keywords": [
     "pinch",
